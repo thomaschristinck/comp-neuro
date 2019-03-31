@@ -1,0 +1,3 @@
+# Computational Neuroscience: Assignments
+
+A repository for assignments I worked on while taking Computational Neuroscience (NEUR 603; taught by Dr Christopher Pack) at McGill. The assignments all focus on different aspects of computational neuroscience, including single-neuron models like Hodgkin and Huxley's, Robinson's occulomotor system models, and supervised deep learning models. Each folder in this repository has an assignment - both the code (all written in MATLAB) as well as my report/analysis of the results (as a .pdf file).

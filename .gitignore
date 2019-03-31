@@ -1,0 +1,22 @@
+*.docx
+*.pptx
+*.ppt
+*.doc
+
+*/.DS_Store
+
+/Papers/*
+/BRIAN/*
+BRIAN
+Papers
+
+/Assignment 1 Report.pdf
+/Chacron Assignment.pdf
+*assignment.pdf
+*CellAssemblies.pdf
+*Slides.pdf
+*Handout.pdf
+*Lecture.pdf
+*saccades64.pdf
+
+*MLM_demo.mat
