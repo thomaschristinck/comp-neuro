@@ -2,6 +2,7 @@
 *.pptx
 *.ppt
 *.doc
+*.htm
 
 */.DS_Store
 
