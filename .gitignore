@@ -5,6 +5,7 @@
 *.htm
 
 */.DS_Store
+*.DS_Store
 
 /Papers/*
 /BRIAN/*
